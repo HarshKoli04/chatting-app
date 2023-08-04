@@ -1,0 +1,18 @@
+.message {
+    background-color: #b8f3fa;
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+    width: 94%
+   
+  }
+  
+  .message h2 {
+    font-size: 18px;
+    margin: 0;
+    margin-left: 20px;
+    
+  }
+  
